@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://fortart.com.br/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fortart.com.br/assets/imagens/logo.jpg</image:loc>
+      <image:title>Logo Fort.Art Papelaria e Presentes</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://fortart.com.br/assets/imagens/loja-1.jpeg</image:loc>
+      <image:title>Loja Fort.Art Papelaria e Presentes</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://fortart.com.br/assets/imagens/album-copa.jpg</image:loc>
+      <image:title>Album da Copa 2026 Fort.Art</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://fortart.com.br/assets/imagens/fundadores.jpg</image:loc>
+      <image:title>Fundadores da Fort.Art</image:title>
+    </image:image>
+  </url>
+</urlset>
